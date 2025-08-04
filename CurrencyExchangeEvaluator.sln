@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchangeEvaluator", "CurrencyExchangeEvaluator\CurrencyExchangeEvaluator.csproj", "{156F9885-C1D5-4A53-881A-B4A5CFB85E19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyExchangeEvaluator", "CurrencyExchangeEvaluator\CurrencyExchangeEvaluator.csproj", "{156F9885-C1D5-4A53-881A-B4A5CFB85E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchangeEvaluator.Tests", "CurrencyExchangeEvaluator.Tests\CurrencyExchangeEvaluator.Tests.csproj", "{8EB991C9-FA5D-4D6F-9C65-4334D6557211}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{156F9885-C1D5-4A53-881A-B4A5CFB85E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{156F9885-C1D5-4A53-881A-B4A5CFB85E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{156F9885-C1D5-4A53-881A-B4A5CFB85E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB991C9-FA5D-4D6F-9C65-4334D6557211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB991C9-FA5D-4D6F-9C65-4334D6557211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB991C9-FA5D-4D6F-9C65-4334D6557211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB991C9-FA5D-4D6F-9C65-4334D6557211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
